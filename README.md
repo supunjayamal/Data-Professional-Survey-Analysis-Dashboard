@@ -11,6 +11,7 @@ Source: Data Professional Survey Dataset (630+ records)
 Domain: Human Resources / Tech Industry
 
 🛠️ Tools & Technologies Used
+
 Power BI: For designing the interactive dashboard and data visualization.
 
 Power Query: For data extraction, transformation, and cleaning (e.g., handling null values, standardizing data types, splitting complex text columns).
@@ -18,6 +19,7 @@ Power Query: For data extraction, transformation, and cleaning (e.g., handling n
 Excel: Initial data exploration.
 
 💡 Key Insights Discovered
+
 Python Dominates: Python is overwhelmingly the favorite programming language among data professionals, followed by R and SQL.
 
 Entry Barrier: A significant portion of professionals found it "Difficult" to break into the data industry, highlighting a challenging entry curve for beginners.
