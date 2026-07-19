@@ -1,4 +1,5 @@
 Data Professional Survey Analysis Dashboard 📊
+
 📌 Project Overview
 This project explores a real-world dataset of over 630 data professionals globally to uncover trends in the data analytics industry. The interactive Power BI dashboard provides valuable insights into salary expectations, favorite programming languages, career satisfaction, and the challenges of breaking into the data field.
 
